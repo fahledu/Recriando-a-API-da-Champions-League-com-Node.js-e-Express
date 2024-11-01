@@ -1,7 +1,5 @@
-interface PLayerModel {
-    id: number;
-    name: string;
-}
+import { PLayerModel } from "../models/player-model";
+
 
 const database: PLayerModel[] = [
     { id: 1, name: "Messi" },
