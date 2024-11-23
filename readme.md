@@ -1,0 +1,1 @@
+<img src="docs/arquitetura.png">

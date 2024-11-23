@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "name": "Barcelona"
+    },
+    {
+        "id": 3,
+        "name": "Manchester City"
+    },
+    {
+        "id": 4,
+        "name": "Bayern Munich"
+    },
+    {
+        "id": 5,
+        "name": "Paris Saint-Germain"
+    },
+    {
+        "id": 6,
+        "name": "Arsenal"
+    },
+    {
+        "id": 7,
+        "name": "Inter Milan"
+    },
+    {
+        "id": 8,
+        "name": "Napoli"
+    },
+    {
+        "id": 9,
+        "name": "AC Milan"
+    },
+    {
+        "id": 10,
+        "name": "Atlético Madrid"
+    },
+    {
+        "id": 11,
+        "name": "Borussia Dortmund"
+    },
+    {
+        "id": 12,
+        "name": "RB Leipzig"
+    },
+    {
+        "id": 13,
+        "name": "Porto"
+    },
+    {
+        "id": 14,
+        "name": "Benfica"
+    },
+    {
+        "id": 15,
+        "name": "Shakhtar Donetsk"
+    },
+    {
+        "id": 16,
+        "name": "Newcastle United"
+    },
+    {
+        "id": 17,
+        "name": "Lazio"
+    },
+    {
+        "id": 18,
+        "name": "Feyenoord"
+    },
+    {
+        "id": 19,
+        "name": "Celtic"
+    },
+    {
+        "id": 20,
+        "name": "Galatasaray"
+    },
+    {
+        "id": 21,
+        "name": "Copenhagen"
+    },
+    {
+        "id": 22,
+        "name": "Union Berlin"
+    },
+    {
+        "id": 23,
+        "name": "Lens"
+    },
+    {
+        "id": 24,
+        "name": "Red Star Belgrade"
+    },
+    {
+        "id": 25,
+        "name": "Young Boys"
+    },
+    {
+        "id": 26,
+        "name": "Sevilla"
+    },
+    {
+        "id": 27,
+        "name": "Braga"
+    },
+    {
+        "id": 28,
+        "name": "Antwerp"
+    },
+    {
+        "id": 29,
+        "name": "Salzburg"
+    },
+    {
+        "id": 30,
+        "name": "PSV Eindhoven"
+    },
+    {
+        "id": 31,
+        "name": "Real Sociedad"
+    },
+    {
+        "id": 32,
+        "name": "Union Saint-Gilloise"
+    }
+]

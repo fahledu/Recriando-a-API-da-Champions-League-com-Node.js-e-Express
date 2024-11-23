@@ -1,9 +1,17 @@
 {
   "compilerOptions": {
+<<<<<<< HEAD
    "target": "ES6",
    "module": "CommonJS",
    "outDir": "./dist",
    "strict": true,
    "esModuleInterop": true                           /* Skip type checking all .d.ts files. */
+=======
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true
+>>>>>>> 21cae64 (Primeiro commit - adicionando projeto)
   }
 }

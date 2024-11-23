@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "recriando-a-api-da-champions-league-com-node.js-e-express",
+=======
+  "name": "recriando-a-api-da-champions-league-com-nodejs-e-express",
+>>>>>>> 21cae64 (Primeiro commit - adicionando projeto)
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,12 +17,20 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+<<<<<<< HEAD
+=======
+    "@types/cors": "^2.8.17",
+>>>>>>> 21cae64 (Primeiro commit - adicionando projeto)
     "@types/express": "^5.0.0",
     "tsup": "^8.3.5",
     "tsx": "^4.19.2",
     "typescript": "^5.6.3"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "cors": "^2.8.5",
+>>>>>>> 21cae64 (Primeiro commit - adicionando projeto)
     "express": "^4.21.1"
   }
 }
